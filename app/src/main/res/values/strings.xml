@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreadSafeSQLite</string>
+    <string name="load">Load</string>
+    <string name="database_name">Database name</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="tap_to_display_database_records">Tap to display database records</string>
+</resources>
